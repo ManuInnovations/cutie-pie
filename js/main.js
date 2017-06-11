@@ -1,4 +1,7 @@
-// Freelancer Theme JavaScript
+/*!
+ * Start Bootstrap - Cutie-Pie v0.0.1 ()
+ * Copyright 2013-2017 Janie Tito - Manu Innovations Ltd.
+ */
 
 (function($) {
     "use strict"; // Start of use strict
@@ -19,7 +22,7 @@
     });
 
     // Closes the Responsive Menu on Menu Item Click
-    $('.navbar-collapse ul li a').click(function(){ 
+    $('.navbar-collapse ul li a').click(function(){
             $('.navbar-toggle:visible').click();
     });
 
