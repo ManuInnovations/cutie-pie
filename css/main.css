@@ -195,7 +195,7 @@ section.success {
 #gallery .gallery-item .gallery-link {
   display: block;
   position: relative;
-  max-width: 400px;
+  max-width: 200px;
   margin: 0 auto;
 }
 #gallery .gallery-item .gallery-link .caption {
@@ -293,6 +293,12 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
+  background-color: #F9E7E7;
+  color: #DBB1BC;
+}
+
+footer .footer-above-shop {
+  padding-top: 10px;
   background-color: #F9E7E7;
   color: #DBB1BC;
 }
