@@ -180,6 +180,11 @@ section.success {
   background: white;
   color: black;
 }
+
+#about {
+  background-image: url("../img/hearts.png");
+}
+
 @media (max-width: 767px) {
   section {
     padding: 75px 0;
